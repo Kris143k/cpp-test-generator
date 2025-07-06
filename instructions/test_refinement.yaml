@@ -1,0 +1,10 @@
+instructions:
+  - Analyze existing test files
+  - Remove duplicate test cases
+  - Add missing test cases for uncovered code
+  - Improve test quality by adding more assertions
+  - Ensure proper test isolation
+requirements:
+  - Maintain 100% of existing valid test coverage
+  - Add tests for any untested branches
+  - Optimize test execution time

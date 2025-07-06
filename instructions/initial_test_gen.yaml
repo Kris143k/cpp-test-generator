@@ -1,0 +1,10 @@
+instructions:
+  - Analyze the provided C++ code
+  - Generate comprehensive unit tests using Google Test framework
+  - Include necessary headers and setup/teardown where needed
+  - Cover all public methods and edge cases
+  - Output tests in separate files matching the source files
+requirements:
+  - Test files must be valid C++ that compiles with g++
+  - Each test case should have clear purpose comments
+  - Include ASSERT and EXPECT statements appropriately

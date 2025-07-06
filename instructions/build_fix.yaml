@@ -1,0 +1,9 @@
+instructions:
+  - Analyze build errors from provided logs
+  - Identify exact causes of compilation failures
+  - Modify tests to fix all compilation issues
+  - Preserve all valid test coverage
+requirements:
+  - Solutions must maintain original test intent
+  - Fixes should be minimal and targeted
+  - Add comments explaining fixes if non-obvious

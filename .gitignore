@@ -1,0 +1,9 @@
+build/
+*.pyc
+__pycache__/
+*.so
+*.o
+*.a
+*.out
+*.log
+coverage.info
